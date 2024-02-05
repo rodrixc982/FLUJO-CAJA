@@ -28,7 +28,7 @@
 		$pdf = new PDF_Code128('P','mm','Letter');
 		$pdf->SetMargins(17,17,17);
 		$pdf->AddPage();
-		$pdf->Image(APP_URL.'app/views/img/logo.png',165,12,35,35,'PNG');
+		$pdf->Image(APP_URL.'app/views/img/Administrador_0.jpg',165,12,35,35,'JPG');
 
 		$pdf->SetFont('Arial','B',16);
 		$pdf->SetTextColor(32,100,210);

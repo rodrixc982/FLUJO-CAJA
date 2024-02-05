@@ -1,7 +1,7 @@
 <section class="full-width navLateral scroll" id="navLateral">
 	<div class="full-width navLateral-body">
 		<div class="full-width navLateral-body-logo has-text-centered tittles is-uppercase">
-			Sistema de ventas 
+			Visual.com
 		</div>
 		<figure class="full-width" style="height: 77px;">
 			<div class="navLateral-body-cl">
@@ -67,6 +67,16 @@
 								</div>
 								<div class="navLateral-body-cr">
 									Lista de cajas
+								</div>
+							</a>
+						</li>
+						<li class="full-width">
+							<a href="<?php echo APP_URL; ?>cashFlow/" class="full-width">
+								<div class="navLateral-body-cl">
+									<i class="fas fa-clipboard-list fa-fw"></i>
+								</div>
+								<div class="navLateral-body-cr">
+									flujo de caja
 								</div>
 							</a>
 						</li>
@@ -229,7 +239,7 @@
 							<i class="fas fa-cubes fa-fw"></i>
 						</div>
 						<div class="navLateral-body-cr">
-							PRODUCTOS
+							 PRODUCTOS
 						</div>
 						<span class="fas fa-chevron-down"></span>
 					</a>
@@ -240,7 +250,7 @@
 									<i class="fas fa-box fa-fw"></i>
 								</div>
 								<div class="navLateral-body-cr">
-									Nuevo producto
+									Ingreso de  producto
 								</div>
 							</a>
 						</li>
